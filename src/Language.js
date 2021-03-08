@@ -9,9 +9,6 @@ export default function Language(props) {
     case "Spanish":
       Language = "Hola";
       break;
-    case "English":
-      Language = "Hello";
-      break;
 
     default:
       Language = "Hello";
